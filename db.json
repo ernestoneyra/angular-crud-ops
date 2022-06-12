@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "images",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 123,
+      "comment": "fresh",
+      "date": "2022-06-13T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "applr",
+      "category": "Electronics",
+      "freshness": "Brand new",
+      "price": 12345,
+      "comment": "old",
+      "date": "2022-06-14T22:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
